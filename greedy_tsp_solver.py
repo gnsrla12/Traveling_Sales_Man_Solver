@@ -4,7 +4,7 @@ import math
 sys.setrecursionlimit(20000)
 
 # number of paths to produce as answers
-num_of_path = 10
+num_of_path = 3
 
 #list that stores answers given by min_search function.
 min_answers = []
